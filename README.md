@@ -29,4 +29,4 @@ npm install
 
 ```
 
-![](screen2.gif)
+![](client/screen2.gif)
